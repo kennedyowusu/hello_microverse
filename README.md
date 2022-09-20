@@ -1,62 +1,43 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-> Description the project.
-
+> A simple microverse project.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML and CSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Download or clone the project. Open it in you preferred editor and run test it in your browser.
 
+## To get a local copy up and running follow these simple example steps.
 
-To get a local copy up and running follow these simple example steps.
+1. Download VS Code
 
-### Prerequisites
+2. Clone this project
 
-### Setup
+3. Open it in VS Code
 
-### Install
+4. Run tests
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+5. Deployment
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@kennedyowusu](https://github.com/kennedyowusu)
+- Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
+- LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/](https://github.com/kennedyowusu/hello_microverse/issues).
 
 ## Show your support
 
@@ -64,9 +45,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- microverseinc
 
 ## 📝 License
 
