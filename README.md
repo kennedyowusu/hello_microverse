@@ -10,24 +10,32 @@
 
 ## Getting Started
 
-Download or clone the project. Open it in you preferred editor and run test it in your browser.
+Clone the project by running this command
 
-## To get a local copy up and running follow these simple example steps.
+https://github.com/kennedyowusu/hello_microverse.git
 
-1. Download VS Code
+Navigate into the folder by running this command
 
-2. Clone this project
+cd name_of_folder_you_cloned_the_project_into
 
-3. Open it in VS Code
+Use you favorite browser to view the project
 
-4. Run tests
+## Pequisites
 
-5. Deployment
+You will be needing:
+
+• A web browser to view output
+
+• A text editor or an IDE
+
+## Run Tests
+
+• navigate to cloned folder destination
+
+• open the project in a browser
 
 
-## Authors
-
-👤 **Author1**
+## About Me👤 
 
 - GitHub: [@kennedyowusu](https://github.com/kennedyowusu)
 - Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
@@ -37,7 +45,7 @@ Download or clone the project. Open it in you preferred editor and run test it i
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/](https://github.com/kennedyowusu/hello_microverse/issues).
+Feel free to check the [issues](https://github.com/kennedyowusu/hello_microverse/issues).
 
 ## Show your support
 
@@ -50,5 +58,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
